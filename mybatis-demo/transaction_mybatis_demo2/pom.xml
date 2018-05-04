@@ -20,7 +20,7 @@
         <groupId>com.codingapi</groupId>
         <artifactId>dubbo-lcn-demo</artifactId>
         <version>4.1.0</version>
-        <relativePath/>
+        <relativePath>../../pom.xml</relativePath>
     </parent>
 
 
